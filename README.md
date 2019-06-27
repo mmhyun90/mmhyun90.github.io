@@ -1,1 +1,1 @@
-# mmhyun90.github.io
+# 도로시의 블로그입니다.
