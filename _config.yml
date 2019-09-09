@@ -2,7 +2,7 @@
 # ============================================================================
 # if your site is serving on https://xxx.github.io, set `baseurl: /`
 # if your site is serving on https://xxx.github.io/path, set `baseurl: /path`
-baseurl: /
+baseurl: ''
 
 # site title
 title: 혀니의 블로그임니댜 :stuck_out_tongue_closed_eyes:
