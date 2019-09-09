@@ -2,10 +2,10 @@
 # ============================================================================
 # if your site is serving on https://xxx.github.io, set `baseurl: /`
 # if your site is serving on https://xxx.github.io/path, set `baseurl: /path`
-baseurl: /book
+baseurl: /
 
 # site title
-title: Book
+title: 혀니의 블로그임니댜 :stuck_out_tongue_closed_eyes:
 
 # site favicon, absolute path required
 favicon: /assets/img/favicon.ico
