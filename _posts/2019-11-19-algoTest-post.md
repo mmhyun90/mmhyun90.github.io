@@ -6,7 +6,7 @@ comment: true
 
 ## 17779. [게리멘더링2](https://www.acmicpc.net/problem/17779)
 
-''' java
+```java
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Arrays;
@@ -196,4 +196,4 @@ public class Main {
 	}
 }
 
-'''
+```
