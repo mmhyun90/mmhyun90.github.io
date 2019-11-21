@@ -3,7 +3,7 @@ title: 백준 17779 게리멘더링2
 date: 2019-11-19
 comment: true
 ---
-
+<!-- more -->
 ## 17779. [게리멘더링2](https://www.acmicpc.net/problem/17779)
 
 ```java
