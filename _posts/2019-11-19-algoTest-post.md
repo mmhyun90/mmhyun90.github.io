@@ -3,7 +3,8 @@ title: 백준 17779 게리멘더링2
 date: 2019-11-19
 comment: true
 ---
-<!-- more -->
+
+
 ## 17779. [게리멘더링2](https://www.acmicpc.net/problem/17779)
 
 ```java
@@ -19,7 +20,6 @@ public class Main {
 	static int[][] area;
 	static int answer;
 	static final int INF = Integer.MAX_VALUE >> 2;
-	static int[][] dir = {{1, -1}, {1, 1}};		// 좌하, 우하
 	static int allSum;
 	static int[] countStore;
 	
